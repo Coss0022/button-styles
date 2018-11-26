@@ -39,3 +39,15 @@ div {
   background-color: #666;
   border-color: #666;
 }
+
+.btn-ghost {
+  color: #000;
+  border-color: #000;
+  background-color: transparent;
+}
+
+.btn-ghost:hover {
+  color: #fff;
+  border-color: #666;
+  background-color: #666;
+}
