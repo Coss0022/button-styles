@@ -28,3 +28,14 @@ div {
   background-color: #000;
   border-color: #000;
 }
+
+.btn-subtle {
+  background-color: #ccc;
+  border-color: #ccc;
+}
+
+.btn-subtle:hover {
+  color: #fff;
+  background-color: #666;
+  border-color: #666;
+}
