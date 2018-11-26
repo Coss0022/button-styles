@@ -22,3 +22,9 @@ div {
   padding: .4em .75em .3em;
   display: inline-block;
 }
+
+.btn:hover {
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+}
